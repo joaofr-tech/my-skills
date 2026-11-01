@@ -1,6 +1,6 @@
-# 🧠 Personal Agent Skills
+# 👻 Personal Agent Skills
 
-Coleção de skills autorais para agentes de IA (**Google Antigravity**, **Gemini CLI**, **Cursor**, **Claude Code**, **Cline** e ferramentas compatíveis com o padrão de agent skills).
+Skills práticas e úteis que criei para facilitar o meu dia a dia.
 
 ---
 
@@ -32,10 +32,10 @@ Se você utiliza o gerenciador universal de skills:
 
 ```bash
 # Instalar uma skill específica
-npx skills add <seu-usuario-github>/my-skills --skill concept-poc
+npx skills add <joaofr-tech> my-skills --skill concept-poc
 
 # Ou instalar todas as skills
-npx skills add <seu-usuario-github>/my-skills
+npx skills add <joaofr-tech>/my-skills
 ```
 
 ---
@@ -65,8 +65,3 @@ Basta clonar este repositório ou copiar a pasta da skill desejada para o diret�
   cp -r skills/* ~/.claude/skills/
   ```
 
----
-
-## 📄 Licença
-
-Este repositório está sob a licença [MIT](./LICENSE).
